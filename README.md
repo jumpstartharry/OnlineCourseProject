@@ -1,2 +1,0 @@
-# OnlineCourseProject
-Created with CodeSandbox
